@@ -1,1 +1,2 @@
-# Hotel-Management-
+# Hotel-Management-system
+This is my Hotel management system project using java. currently it is not completed but soon it will.....
